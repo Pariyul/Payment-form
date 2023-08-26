@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(154, 211, 230);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    background-color: rgb(170, 200, 232);
+}
+.form{
+    width: fit-content;
+    background-color: rgb(205, 225, 235);
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
+}
+#payNow{
+    background-color: rgb(34, 70, 70);
+}
